@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas0017" alt="shreyas0017" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shreyas17op" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas17op?logo=twitter&style=for-the-badge" alt="shreyas17op" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/shreyas-saha" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas-saha?logo=twitter&style=for-the-badge" alt="shreyas saha" /></a> </p>
 
 - 🔭 I’m currently working on [Lexishift.](https://lexishift.vercel.app)
 
