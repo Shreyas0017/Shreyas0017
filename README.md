@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Lexishift.](https://lexishift.vercel.app)
 
-- 🌱 I’m currently learning **Java for App Development.**
+- 🌱 I’m currently learning **Flutter for App Development.**
 
 - 👨‍💻 All of my projects are available at [shreyas-saha.vercel.app](shreyas-saha.vercel.app)
 
