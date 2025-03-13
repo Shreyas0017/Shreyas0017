@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [shreyas-saha.vercel.app](shreyas-saha.vercel.app)
 
-- 💬 Ask me about **react, firebase and c++.**
+- 💬 Ask me about **react, firebase, sql and c++.**
 
 - 📫 How to reach me **shreyassaha00@gmail.com**
 
