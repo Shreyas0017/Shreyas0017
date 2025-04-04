@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Shreyas0017/Shreyas0017/blob/a05f646e40fbd0e2a630683958f74455b5906f41/githubgif.gif" width="500" alt="Cool GIF" />
+</p>
 <h1 align="center">Hi there! I'm Shreyas Saha 👋</h1>
 <h3 align="center">Full Stack Developer & Mobile App Enthusiast</h3>
 
